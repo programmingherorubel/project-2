@@ -1,0 +1,3 @@
+export const ADDFLIGHT ='ADDFLIGHT'
+export const DELETEFLIGHT ='DELETEFLIGHT'
+
